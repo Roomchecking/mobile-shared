@@ -11,7 +11,8 @@
         "change-sheets": "Schone lakens",
         "cleaning-info": "Schoonmaak info",
         "credits": "Credits",
-        "pms": "Pms"
+        "pms": "Pms",
+        "cleaning-instruction":"Instructie"
       },
       "finishmenu": {
         "cancel-dnd": "Annuleren NS",
@@ -325,7 +326,9 @@
         "notification": "Nota",
         "okay": "O.K.",
         "reject": "Afwijzen",
-        "submitted-time": "Tijd verzonden"
+        "submitted-time": "Tijd verzonden",
+        "comments" :"Opmerkingen",
+        "sent":"Verstuurd"
       }
     },
     "realtime": {
@@ -392,6 +395,8 @@
       }
     },
     "ubiquitous": {
+      "add-more-photo" : "Voeg meer foto toe",
+      "add-more-video" : "Voeg meer video toe",
       "accept": "Aanvaarden",
       "acknowledge": "Erkennen",
       "add-a-note": "Voeg een notitie toe",
@@ -625,7 +630,8 @@
         "room-category": "Kamer categorie",
         "room-information": "Kamer informatie",
         "room-type": "Kamertype",
-        "standart-room": "Standaard kamer"
+        "standart-room": "Standaard kamer",
+        "cleaning-name": "Schoonmakende naam"
       },
       "notes": {
         "room-notes": "Kamer notas"
@@ -963,6 +969,11 @@
         "sublocation": "Sublocatie",
         "unassigned": "Niet-toegewezen ticket",
         "undefined": "Ticket"
+      },
+      "create-task-alert": {
+        "select-asset" :"Selecteer activa!!",
+        "select-location":"Selecteer locatie!! ",
+        "select-asset-action":"Selecteer item actie!!"
       }
     }
   },

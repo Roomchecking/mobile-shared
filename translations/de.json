@@ -10,7 +10,8 @@
       "cleaninginfo": {
         "cleaning-info": "Information",
         "credits": "Credits",
-        "pms": "pms"
+        "pms": "pms",
+        "cleaning-instruction":"Anweisung"
       },
       "finishmenu": {
         "cancel-dnd": "Abbrechen DND",
@@ -301,7 +302,9 @@
         "notification": "Benachrichtigung",
         "okay": "okay",
         "reject": "Ablehnen",
-        "submitted-time": "Übermittelt Zeit"
+        "submitted-time": "Übermittelt Zeit",
+        "comments" :"Kommentare",
+        "sent":"Gesendet"
       }
     },
     "realtime": {
@@ -364,6 +367,8 @@
       }
     },
     "ubiquitous": {
+      "add-more-photo" : "Mehr Foto hinzufügen",
+      "add-more-video" : "Weitere Videos hinzufügen",
       "accept": "Akzeptieren",
       "acknowledge": "Bestätigen",
       "add-a-note": "Füg ein Notiz hinzu",
@@ -594,7 +599,8 @@
         "room-category": "Zimmer Kategorie",
         "room-information": "Information sur la chambre",
         "room-type": "Zimmertyp",
-        "standart-room": "Standart Zimmer"
+        "standart-room": "Standart Zimmer",
+        "cleaning-name":"Reinigungsname"
       },
       "notes": {
         "room-notes": "Zimmer Notizen"
@@ -926,6 +932,11 @@
         "sublocation": "Sublokation",
         "unassigned": "Nicht zugewiesene Ticket",
         "undefined": "Fahrkarte"
+      },
+      "create-task-alert": {
+        "select-asset" :"Bitte Anlage auswählen!!",
+        "select-location":"Bitte Ort auswählen!!",
+        "select-asset-action":"Bitte Asset-Aktion auswählen!!"
       }
     }
   },

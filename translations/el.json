@@ -237,7 +237,8 @@
                 "credits": "πιστώσεις",
                 "pms": "σημείωμα",
                 "change-sheets": "άλλαγη σεντονιών",
-                "cleaning-info": "καθαρισμός πληροφοριών"
+                "cleaning-info": "καθαρισμός πληροφοριών",
+                "cleaning-instruction":"Εντολή"
             },
             "taskssubheader": {
                 "show-tasks": "δείξε εργασίες",
@@ -452,10 +453,14 @@
                 "location": "τοποθεσία",
                 "reject": "απορρίπτω",
                 "created-by": "δημιουργήθηκε από",
-                "last-message": "Τελευταίο μήνυμα"
+                "last-message": "Τελευταίο μήνυμα",
+                "comments" :"Σχόλια",
+                "sent":"Απεσταλμένα"
             }
         },
         "ubiquitous": {
+            "add-more-photo" : "Προσθήκη περισσότερης φωτογραφίας",
+            "add-more-video" : "Προσθήκη περισσότερων βίντεο",
             "all": "όλα",
             "departed": "αναχώρησε",
             "photo": "φωτογραφία",
@@ -802,7 +807,8 @@
                 "room-type": "Πληροφορίες δωματίου",
                 "standart-room": "στάνταρ δωμάτιο",
                 "room-information": "πληροφορίες δωματίου",
-                "room-category": "Κατηγορία δωματίων"
+                "room-category": "Κατηγορία δωματίων",
+                "cleaning-name":"Όνομα καθαρισμού"
             },
             "index": {
                 "room": "δωμάτιο"
@@ -1077,7 +1083,12 @@
                 "lite": "αεροπορικά εισητήρια",
                 "model": "Μοντέλο",
                 "created-by": "Δημιουργήθηκε από"
-            }
+            },
+            "create-task-alert": {
+                "select-asset" :"Επιλέξτε στοιχείο!!",
+                "select-location":"Επιλέξτε τοποθεσία!!",
+                "select-asset-action":"Επιλέξτε ενέργεια στοιχείου!!"
+              }
         },
         "asset": {
             "index": {

@@ -210,7 +210,8 @@
                 "credits": "Kredity",
                 "pms": "PMS",
                 "change-sheets": "Vymeniť posteľné prádlo",
-                "cleaning-info": "Informácie k upratovaniu"
+                "cleaning-info": "Informácie k upratovaniu",
+                "cleaning-instruction": "Navodilo"
             },
             "taskssubheader": {
                 "show-tasks": "Ukázať poznámky",
@@ -422,10 +423,14 @@
                 "location": "Poloha",
                 "reject": "Odmietnúť",
                 "created-by": "Vytvorené ",
-                "last-message": "Posledná správa"
+                "last-message": "Posledná správa",
+                "comments" :"Komentarji",
+                "sent":"Poslano"
             }
         },
         "ubiquitous": {
+            "add-more-photo" : "Dodaj več fotografij",
+            "add-more-video" : "Dodaj več videoposnetkov",
             "creator": "Tvorca",
             "runner": "Runner",
             "photo": "Fotka",
@@ -643,7 +648,8 @@
                 "room-attendant": "Apartmán zamestnanca",
                 "standart-room": "Apartmán štandard",
                 "emilie-persion": "",
-                "last-action": "Posledná činnosť"
+                "last-action": "Posledná činnosť",
+                "cleaning-name":"Ime čiščenja"
             },
             "index": {
                 "room": "Apartmán"
@@ -864,6 +870,11 @@
             "dummy": {
                 "pause": "Pozastaviť",
                 "finish": "Ukončiť"
+            },
+            "create-task-alert": {
+                "select-asset" :"Prosimo izberite sredstvo!!",
+                "select-location":"Prosimo izberite lokacijo!!",
+                "select-asset-action":"Prosimo izberite dejanje sredstva!!"
             }
         },
         "rooms": {

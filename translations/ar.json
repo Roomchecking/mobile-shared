@@ -196,7 +196,8 @@
         "credits": "قروض",
         "pms": "الدورة الشهرية",
         "change-sheets": "ورقة التغيير",
-        "cleaning-info": "معلومات التنظيف"
+        "cleaning-info": "معلومات التنظيف",
+        "cleaning-instruction" :"تعليمات"
       },
       "taskssubheader": {
         "show-tasks": "إظهار المهام",
@@ -376,10 +377,14 @@
         "location": "موقعك",
         "reject": "رفض",
         "created-by": "صنع من قبل",
-        "last-message": "اخر رسالة"
+        "last-message": "اخر رسالة",
+        "comments" :"تعليقات",
+        "sent":"مرسل"
       }
     },
     "ubiquitous": {
+      "add-more-photo" : "إضافة المزيد من الصور",
+      "add-more-video" : "أضف المزيد من الفيديو",
       "all": "الكل",
       "departed": "الراحل",
       "photo": "صورة فوتوغرافية",
@@ -696,7 +701,8 @@
         "room-type": "نوع الغرفة",
         "standart-room": "غرفة ستاندارت",
         "last-action": "أخر فعل",
-        "room-category": "فئة الغرف"
+        "room-category": "فئة الغرف",
+        "cleaning-name":"اسم التنظيف"
       },
       "index": { "room": "مجال" },
       "pmsnotes": {
@@ -928,6 +934,11 @@
         "lite": "تذكرة لايت",
         "model": "نموذج",
         "created-by": "صنع من قبل"
+      },
+      "create-task-alert": {
+        "select-asset" :"الرجاء تحديد الأصل !!",
+        "select-location":"الرجاء تحديد الموقع !!",
+        "select-asset-action":"الرجاء تحديد إجراء الأصول !!"
       }
     },
     "asset": { "index": { "models": "عارضات ازياء", "actions": "أفعال" } },
